@@ -1,0 +1,23 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  padding: 12px 20px;
+}
+
+.navbar-brand {
+  font-size: 20px;
+}
+
+.nav-link {
+  margin-left: 10px;
+}
+
+.page-content {
+  text-align: center;
+  padding: 15px;
+  font-size: 16px;
+}
